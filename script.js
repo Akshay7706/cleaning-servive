@@ -61,15 +61,15 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Form handlers
-    const bookingForm = document.querySelector('.booking-form');
+    const bookingForm = document.querySelector('.booking-form, #bookingForm');
     if (bookingForm) {
         bookingForm.addEventListener('submit', function(e) {
             e.preventDefault();
-            alert('Thank you! We will contact you shortly with your quote.');
+            alert('Thank you! We will check availability and contact you shortly to confirm your booking.');
             bookingForm.reset();
         });
     }
-    
+
     const contactForm = document.getElementById('contactForm');
     if (contactForm) {
         contactForm.addEventListener('submit', function(e) {
