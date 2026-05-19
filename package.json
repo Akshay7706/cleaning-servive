@@ -1,0 +1,13 @@
+{
+  "name": "home-cleaner-website",
+  "version": "1.0.0",
+  "description": "Responsive Home Cleaner Website Design",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo \"Build complete\"",
+    "serve": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
