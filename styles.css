@@ -89,7 +89,7 @@ body {
 }
 
 .header {
-    background: #2c3e50 url('https://images.unsplash.com/photo-1527856263667-cb9020a28e02?w=1920&q=80') center/cover;
+    background: #2c3e50 url('https://picsum.photos/id/1015/1920/1080') center/cover;
     color: var(--white);
     min-height: 100vh;
 }
