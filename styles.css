@@ -89,8 +89,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1556911073-38a5150d27e5?auto=format&fit=crop&w=1920&q=80') center/cover no-repeat;
-    background-color: #2c3e50;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://source.unsplash.com/1920x1080/?cleaning,house') center/cover;
     color: var(--white);
     min-height: 100vh;
 }
