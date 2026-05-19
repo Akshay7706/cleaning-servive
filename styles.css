@@ -89,9 +89,20 @@ body {
 }
 
 .header {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.pexels.com/photos/4239091/pexels-photo-4239091.jpeg?auto=compress&cs=tinysrgb&w=1920&q=80') center/cover;
+    background: linear-gradient(135deg, #1a2a6c 0%, #2c3e50 50%, #1a2a6c 100%);
     color: var(--white);
     min-height: 100vh;
+}
+
+.hero-content h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.hero-content p {
+    font-size: 1.3rem;
+    margin-bottom: 30px;
 }
 
 .navbar {
