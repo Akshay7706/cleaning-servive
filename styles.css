@@ -89,7 +89,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(135deg, #1a2a6c 0%, #b21f1f 50%, #1a2a6c 100%);
+    background: #2c3e50 url('https://images.unsplash.com/photo-1527856263667-cb9020a28e02?w=1920&q=80') center/cover;
     color: var(--white);
     min-height: 100vh;
 }
