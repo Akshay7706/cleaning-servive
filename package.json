@@ -4,7 +4,7 @@
   "description": "Responsive Home Cleaner Website Design",
   "scripts": {
     "dev": "live-server --port=3000",
-    "build": "echo \"Build complete\"",
+    "build": "echo 'Static site ready'",
     "serve": "live-server"
   },
   "devDependencies": {
