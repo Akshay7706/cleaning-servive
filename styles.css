@@ -89,7 +89,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://source.unsplash.com/1920x1080/?cleaning,house') center/cover;
+    background: linear-gradient(135deg, #1a2a6c 0%, #b21f1f 50%, #1a2a6c 100%);
     color: var(--white);
     min-height: 100vh;
 }
